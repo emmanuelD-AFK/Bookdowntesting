@@ -1,10 +1,10 @@
 ---
-title: "[Course Name & #]"
-author: "Name"
+title: "practice101"
+author: "Emmanuel"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-url: https://ma-lead.github.io/ldrs664
+url: https://emmanuelD-AFK.github.io/practice101
 biblio-style: apalike
 ---
 

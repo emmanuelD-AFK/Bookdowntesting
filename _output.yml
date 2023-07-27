@@ -6,9 +6,9 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: true
       before: |
-        <li><a href="./">Template</a></li>
+        <li><a href="./">practice101</a></li>
       after: |
-        <li><a href="https://github.com/twuonline/bookdown-template" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/emmanuelD-AFK/bookdown-practice101" target="blank">Published with bookdown</a></li>
   download: ["pdf"]
 bookdown::pdf_book:
   fig_caption: false

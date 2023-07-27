@@ -1,1 +1,134 @@
-# Title
+#  Welconing Facilitaor 
+
+
+## Overview {-}
+
+In this first unit, we begin the course by questioning the value of facilitators and they bring in the academic life of a University. Then, we will transition by making the case for a robust facilitators onboarding to finish by acknowledging the outcomes which will result from that welcome.     
+
+### Topics {-}
+
+1. The Value of a Facilitator 
+2. Onboarding Facilitators  
+3. Outcomes   
+4. Topic  
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Describe the the benefits of welcoming facilitator 
+- Contrast the added valued of facilitator based the quality of their onboarding 
+- Analyze the effectiveness welcomed facilitator brings
+- Determine with exactude the needs for facilitator
+- Create suggestion to encourage leaders to embrace a culture of welcome for facilitators
+
+### Activity Checklist{-}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+```{block2, type='reflect'}
+
+<span class="blockhead">Learning Activities </span>
+
+- **Read** [Motivation as a facilitator of self-leadership in nurse academics](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S2405844022008684&site=eds-live&scope=site)  
+- 
+- [Spanish-Speaking Parents' Experiences Accessing Academic Medical Center Care: Barriers, Facilitators and Technology Use.](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=ccm&AN=151058677&site=eds-live&scope=site)
+
+- ** Watch ** 
+  
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/ROh4DGPb9kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+```
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assessment</span> 
+
+- Unit 2 Team Memo  
+
+```
+
+### Resources {-}
+
+Here are the resources you will need to complete this unit.
+
+- Bright, D. S. & Cortes, A. H. (2019). [Principles of Management](https://openstax.org/details/books/principles-management){target="_blank"}.  
+- Other online resources will be provided in the unit.  
+
+## Topic 1 Title
+
+[Add content]
+
+![this is a crow](assets/sample/crow.jpg)
+
+### Activity: Introductory Readings & Video {-}
+
+```{block2, type='reflect'}
+
+- Read ...  
+- Watch this short informative video that helps you understand the competitive environment by using the case of Amazon books Vs. Independent bookstores.  
+
+[Watch: *The Competitive Environment Explained*](https://www.youtube.com/watch?v=XIt7dEmo4D8){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XIt7dEmo4D8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+<span class="blockhead">Questions to Consider<span class="prote">
+
+After watching the above video, consider the following questions:
+
+- ...  
+- ...  
+
+**Note:** *Learning activities in this course are ungraded, unless specified. They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.*
+
+```
+
+## Topic 2 Title
+
+[add content]
+
+## Topic 3 Title
+
+[add content]
+
+## Unit 1 Summary {-}
+
+[add content]
+
+## Assessment{-}
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assessment 1 Title</span>
+
+- Do a thing  
+- Do another thing  
+
+<span class="blockhead">Assessment 2 Title</span>
+
+- Do a thing  
+- Do another thing  
+
+**Note:** *This is an example of a note pertaining to an assessment*
+
+```
+
+### Checking your Learning{-}
+
+```{block2, type='progress'}
+
+Now that you have completed the learning activities and assignments for this unit, check the unit learning outcomes below to see if you are able to do the following:
+
+- Describe...  
+- Contrast...  
+- Analyze...  
+- Determine...  
+- Create...  
+
+Feel free to review topics more in depth or continue on to the next unit.
+
