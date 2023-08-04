@@ -8,22 +8,26 @@ Trinity Western University (TWU) is a Christian liberal art university based in 
 
 Although Trinity's process of hiring facilitators is meticulous, and the facilitation guide provides helpful suggestions about facilitation, the university could improve in the facilitators' onboarding journey and Training. Specifically, TWU should make sure that facilitators understand their role in the context of the Global FAR Center so that they are ready to facilitate before their first class.
 
+The purpose of the present Unit is to develop a Facilitator Orientation and Onboarding Training (FOOT).  
+The goals of FOOT are to: 
+• Understand 
+
+
+
 ### Topics {-}
 
-1. Topic  
-1. Topic  
-1. Topic  
+1. Topic 1: Defining Educational Facilitation & FAR Center
+1. Topic 2: Online Interaction & Instructor, Facilitator & Student Interaction  
+1. Topic 3: Field Observation and Conversation
 1. Topic  
 
 ### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
-- Describe...
-- Contrast...
-- Analyze...
-- Determine...
-- Create...
+- Describe facilitation in the context of TWU Global FAR center 
+- Increase facilitators' confidence in their ability to do the job at the start.
+- Create a personal framework for facilitation that aligns with TWU expectations
 
 ### Activity Checklist{-}
 
@@ -50,10 +54,10 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 Here are the resources you will need to complete this unit.
 
-- Bright, D. S. & Cortes, A. H. (2019). [Principles of Management](https://openstax.org/details/books/principles-management){target="_blank"}.  
-- Other online resources will be provided in the unit.  
+- TWU Learning Environment Help Page (2020). [A Guide for Moodle](https://create.twu.ca/help/moodle){target="_blank"}.  
+- FAR Center Guide (2020). [Facilitating a FAR centre course.](https://far.twu.ca/guides/facilitating-a-far-centre-course)  
 
-## Topic 1 Title
+## Topic 1 Defining Educational Facilitation & FAR CenterTitle
 
 [Add content]
 
@@ -128,3 +132,6 @@ Now that you have completed the learning activities and assignments for this uni
 - Create...  
 
 Feel free to review topics more in depth or continue on to the next unit.
+
+
+[def]: https://create.twu.ca/help/moodle
