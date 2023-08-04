@@ -1,15 +1,15 @@
-#  Welcoming Facilitators 
+# Welcoming Facilitators
 
 
 ## Overview {-}
 
-In this first unit, we begin the course by questioning the value of facilitators and they bring in the academic life of a University. Then, we will transition by making the case for a robust facilitators onboarding to finish by acknowledging the outcomes which will result from that welcome.     
+In this first unit, we begin the course by questioning the value of facilitators and they bring in the academic life of a University. Then, we will transition by making the case for a robust facilitators onboarding to finish by acknowledging the outcomes which will result from that welcome.
 
 ### Topics {-}
 
-1. The Value of a Facilitator 
+1. The Value of a Facilitator
 2. Onboarding Facilitators  
-3. Outcomes   
+3. Outcomes
 4. Topic  
 
 ### Learning Outcomes {-}
@@ -17,7 +17,7 @@ In this first unit, we begin the course by questioning the value of facilitators
 When you have completed this unit, you should be able to:
 
 - Describe the the benefits of welcoming facilitator 
-- Contrast the added valued of facilitator based the quality of their onboarding 
+- Contrast the added valued of facilitator based the quality of their onboarding
 - Analyze the effectiveness welcomed facilitator brings
 - Determine with exactude the needs for facilitator
 - Create suggestion to encourage leaders to embrace a culture of welcome for facilitators
